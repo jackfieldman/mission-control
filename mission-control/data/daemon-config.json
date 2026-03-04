@@ -31,6 +31,6 @@
     "skipPermissions": false,
     "allowedTools": ["Edit", "Write", "Read", "Glob", "Grep", "Bash", "WebSearch", "WebFetch"],
     "agentTeams": false,
-    "claudeBinaryPath": null
+    "claudeBinaryPath": "/Users/jack/.local/bin/claude"
   }
 }
